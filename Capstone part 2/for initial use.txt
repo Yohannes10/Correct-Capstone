@@ -1,0 +1,17 @@
+Admin 
+email :"kevin@gmail.com"
+password:"@Kevin25"
+
+User 
+email :"Jane@gmail.com"
+password : Ry2sD4UvQ@3T
+
+
+also this is the new users password validator 
+The Password must have 
+ // Minimum length 8
+ // Maximum length 100
+) // Must have uppercase letters
+) // Must have lowercase letters
+) // Must have at least 1 digits
+ Should not have spaces
